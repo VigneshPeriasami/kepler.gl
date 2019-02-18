@@ -40,12 +40,12 @@ const IconShape = ({mesh}) => (
   </svg>
 );
 
-const StyledIconItem = CenterFlexbox.extend`
+const StyledIconItem = styled(CenterFlexbox)`
   padding-left: 6px;
   width: 180px;
   height: 48px;
   margin-right: 12px;
-  
+
   .icon-table_item__name {
     margin-left: 12px;
   }

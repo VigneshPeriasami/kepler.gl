@@ -32,12 +32,12 @@ export const SelectText = styled.span`
   }
 `;
 
-export const SelectTextBold = SelectText.extend`
+export const SelectTextBold = styled(SelectText)`
   color: ${props => props.theme.textColor};
   font-weight: 500;
 `;
 
-export const IconRoundSmall = styled.div`
+export const IconRoundSmall = styled('div')`
   display: flex;
   width: 18px;
   height: 18px;
@@ -54,7 +54,7 @@ export const IconRoundSmall = styled.div`
   }
 `;
 
-export const CenterFlexbox = styled.div`
+export const CenterFlexbox = styled('div')`
   display: flex;
   align-items: center;
 `;
@@ -77,7 +77,7 @@ export const PanelLabelWrapper = styled.div.attrs({
   align-items: self-start;
 `;
 
-export const PanelLabelBold = PanelLabel.extend`
+export const PanelLabelBold = styled(PanelLabel)`
   font-weight: 500;
 `;
 
@@ -242,7 +242,7 @@ export const InputLight = styled.input`
   ${props => props.theme.inputLT}
 `;
 
-export const InlineInput = Input.extend`
+export const InlineInput = styled(Input)`
   ${props => props.theme.inlineInput};
 `;
 
