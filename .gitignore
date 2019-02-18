@@ -2,7 +2,7 @@ node_modules/
 */**/node_modules/
 coverage/
 .nyc_output/
-dist/
+
 umd/
 */**/dist/
 
