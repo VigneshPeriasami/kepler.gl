@@ -278,8 +278,8 @@ function KeplerGlFactory(
           <GlobalStyle
             style={{
               position: 'relative',
-              width: `${width}px`,
-              height: `${height}px`
+              width: `${mapState.width}px`,
+              height: `${mapState.height}px`
             }}
             className="kepler-gl"
             id={`kepler-gl__${id}`}
