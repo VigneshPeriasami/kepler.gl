@@ -94,7 +94,7 @@
     "moment": "^2.10.6",
     "pbf": "^3.1.0",
     "prop-types": "^15.6.0",
-    "react-anything-sortable": "^1.7.2",
+    "react-anything-sortable": "https://github.com/VigneshPeriasami/react-anything-sortable#733f6b953c3d0a550011c545ca26fd8717acce26",
     "react-data-grid": "2.0.80-am-fix-defaultprops-warnings3337",
     "react-file-drop": "^0.1.8",
     "react-json-pretty": "^1.7.9",
