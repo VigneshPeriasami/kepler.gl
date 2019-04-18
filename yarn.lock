@@ -7320,9 +7320,9 @@ react-addons-test-utils@^15.6.2:
   version "15.6.2"
   resolved "https://registry.yarnpkg.com/react-addons-test-utils/-/react-addons-test-utils-15.6.2.tgz#c12b6efdc2247c10da7b8770d185080a7b047156"
 
-"react-anything-sortable@https://github.com/VigneshPeriasami/react-anything-sortable#733f6b953c3d0a550011c545ca26fd8717acce26":
+"react-anything-sortable@https://github.com/VigneshPeriasami/react-anything-sortable#a971a1fabe78649263f8507304defbe3338a2ca9":
   version "1.7.4"
-  resolved "https://github.com/VigneshPeriasami/react-anything-sortable#733f6b953c3d0a550011c545ca26fd8717acce26"
+  resolved "https://github.com/VigneshPeriasami/react-anything-sortable#a971a1fabe78649263f8507304defbe3338a2ca9"
   dependencies:
     create-react-class "^15.5.2"
     prop-types "^15.5.8"
